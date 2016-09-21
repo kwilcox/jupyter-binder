@@ -1,2 +1,3 @@
 # jupyter-binder
-Collection of Jupyter Notebooks
+
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/kwilcox/jupyter-binder)
